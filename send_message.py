@@ -8,7 +8,7 @@ def send():
 	 
 	message = client.messages.create( 
 	                              from_='whatsapp:+14155238886',  
-	                              body='Ybody',      
+	                              body='I love you so much ❤❤❤❤❤❤',      
 	                              to='whatsapp:+2348182336574' 
 	                          ) 
 	 
