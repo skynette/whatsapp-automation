@@ -8,6 +8,6 @@ from send_message import main
 sched = BlockingScheduler()
 
 # Schedule job_function to be called every two hours
-sched.add_job(main, 'interval', seconds=2)
+sched.add_job(main, 'interval', minutes=30)
 
 sched.start()
