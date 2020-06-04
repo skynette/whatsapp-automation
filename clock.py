@@ -1,7 +1,7 @@
 from datetime import datetime
 
 from apscheduler.schedulers.blocking import BlockingScheduler
-from send_message import send
+from send_message import main
 
 
 
