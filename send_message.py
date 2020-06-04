@@ -23,7 +23,7 @@ def create_api_key():
 def send():	 
 	message = client.messages.create( 
 	                              from_='whatsapp:+14155238886',  
-	                              body='Final changes, hope this works',      
+	                              body='Dont forget about me pls, its Josh from the future, whatever you do, play music and watch anime lol😆😆😆😅😅😅🤣🤣😂😂',      
 	                              to='whatsapp:+2348182336574' 
 	                          ) 
 	 
