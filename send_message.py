@@ -28,6 +28,6 @@ def send():
 	                          ) 
 	 
 	print(message.sid)
-
-create_api_key()
-send()
+def main():
+	create_api_key()
+	send()
