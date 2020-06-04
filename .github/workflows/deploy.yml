@@ -1,2 +1,0 @@
-- name: Git deploy to Heroku
-  uses: onekiloparsec/heroku-node-deploy-subfolder@v1.0.4
